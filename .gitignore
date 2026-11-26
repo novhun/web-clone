@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# WXT & build outputs
+.wxt/
+.output/
+output/
+dist/
+*.zip
+
+# Test & coverage
+coverage/
+
+# Environment & logs
+.env
+.env.*
+*.log
+npm-debug.log*
+
+# OS & editor files
+.DS_Store
+.vscode/
+.idea/
